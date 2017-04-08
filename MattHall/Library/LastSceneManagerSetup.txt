@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/markerless/Scene/markerlessVuforia.unity
+  isLoaded: 1
+  isActive: 1
